@@ -19,3 +19,6 @@ SNSにより人、モノ、商品などに対する好感度をリアルタイ�
 
 ## textanalysis-processor
 テキスト解析プロセッサー
+
+## License
+MIT
