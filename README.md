@@ -61,6 +61,7 @@ Twitter コネクターに関しましては以下のサイトにて公開され
 Eclipse 4.7 Oxygen を利用してビルド確認しております。
 Maven プロジェクトになってます。
 pom.xml を選択して、mvnのゴールに「clean package」と指定すればビルド可能です。
+* http://mergedoc.osdn.jp/
 
 ## License
 MIT
