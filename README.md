@@ -28,6 +28,11 @@ Portal for ArcGIS, ArcGIS GeoEvent Processor, ArcGIS DataStore のセットア�
 * http://enterprise.arcgis.com/ja/portal/latest/administer/windows/install-data-store.htm
 
 ### ArcGIS GeoEvent Server 管理画面イメージ
+ArcGIS GeoEvent Server にてリアルタイム好感度解析サービスを公開します。
+INPUTコネクターにTwitterのコネクタを選択し、OUTPUTコネクターにソケット出力、ストリームレイヤー、ビッグデータストアの３つの出力を選択します。
+管理画面イメージの黄色い処理がプロセッサーと呼ばれるもので本サイトで公開しているテキスト解析プロセッサーと簡易ジオコードプロセッサーも含んでいます。
+Twitter コネクターに関しましては以下のサイトにて公開されております。
+* https://github.com/Esri/twitter-for-geoevent
 ![ArcGIS GeoEvent Server 管理画面イメージ](https://github.com/EJHattori/gcf2018-geoevent-twitter/blob/master/images/geoevent_manager_sample.PNG)
 
 ## lightgeocode-processor
