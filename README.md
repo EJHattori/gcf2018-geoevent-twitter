@@ -23,9 +23,9 @@ SNSにより人、モノ、商品などに対する好感度をリアルタイ�
 ### 必要な資材などは？
 Portal for ArcGIS, ArcGIS GeoEvent Processor, ArcGIS DataStore のセットアップが必要となります。
 セットアップ方法は以下のサイトをご覧ください。
-http://enterprise.arcgis.com/ja/portal/latest/install/windows/welcome-to-the-portal-for-arcgis-installation-guide.htm
-http://enterprise.arcgis.com/ja/geoevent/latest/install/windows/installing-geoevent.htm
-http://enterprise.arcgis.com/ja/portal/latest/administer/windows/install-data-store.htm
+* http://enterprise.arcgis.com/ja/portal/latest/install/windows/welcome-to-the-portal-for-arcgis-installation-guide.htm
+* http://enterprise.arcgis.com/ja/geoevent/latest/install/windows/installing-geoevent.htm
+* http://enterprise.arcgis.com/ja/portal/latest/administer/windows/install-data-store.htm
 
 ### ArcGIS GeoEvent Server 管理画面イメージ
 ![ArcGIS GeoEvent Server 管理画面イメージ](https://github.com/EJHattori/gcf2018-geoevent-twitter/blob/master/images/geoevent_manager_sample.PNG)
