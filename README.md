@@ -47,6 +47,8 @@ Twitter コネクターに関しましては以下のサイトにて公開され
 * 日本語の場合 ⇒ src/main/resource/dic/pn_ja_utf8.dic
 
 | 語句 | 読み方 | 品詞 | スコア |
+----|----|----|----
+| TD1 | TD3 | TD1 | TD3 |
 
 * 英語語の場合 ⇒ src/main/resource/dic/pn_en.dic
 
