@@ -45,13 +45,13 @@ Twitter コネクターに関しましては以下のサイトにて公開され
 
 ### 辞書の配置場所
 「:」コロン区切りです。必要に応じてコード修正して読み込みできます。
-* 日本語の場合 ⇒ src/main/resource/dic/pn_ja_utf8.dic
+* 日本語の場合 ⇒ src/main/resources/dic/pn_ja_utf8.dic
 
 | 語句 | 読み方 | 品詞 | スコア |
 ----|----|----|----
 | 好き | すき | 動詞 | 0.987 |
 
-* 英語の場合 ⇒ src/main/resource/dic/pn_en.dic
+* 英語の場合 ⇒ src/main/resources/dic/pn_en.dic
 
 | 語句 | 品詞 | スコア |
 ----|----|----
@@ -59,3 +59,6 @@ Twitter コネクターに関しましては以下のサイトにて公開され
 
 ## License
 MIT
+
+## 注意事項
+* GeoEvent Server SDK は2018年5月時点で日本国内未サポートとなります。
